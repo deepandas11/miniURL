@@ -1,0 +1,2 @@
+FLASK_APP=miniURL
+FLASK_ENV=development
